@@ -1,0 +1,66 @@
+.body-section {
+    background-color: rgb(158, 158, 158);
+}
+
+/* h1 {
+    margin: 20px;
+} */
+
+.product--image {
+    width: 100%;
+    height: 18em;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 320px;
+    margin: auto 1rem;
+    text-align: center;
+    font-family: arial;
+    cursor: pointer;
+}
+
+.department {
+    color: black;
+    font-size: 16px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 0px 10px;
+}
+
+p {
+    color: black;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 170px;
+    font-size: 18px;
+    
+}
+
+.card button:hover {
+    opacity: 0.5;
+}
+
+.testimonals {
+    margin-top: 100px;
+    background-color: rgb(158, 158, 158);
+}
+
+.sub-intro {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    margin: auto;
+    width: 50%;
+    border: 3px solid gray;
+    padding: 10px;;
+}
