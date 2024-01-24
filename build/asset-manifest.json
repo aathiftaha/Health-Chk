@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c86e024c.css",
+    "main.js": "/static/js/main.5935f411.js",
+    "static/js/787.7750f70a.chunk.js": "/static/js/787.7750f70a.chunk.js",
+    "static/media/doctor-health.jpg": "/static/media/doctor-health.bf4f5da519618664e69e.jpg",
+    "static/media/doctor4.jpg": "/static/media/doctor4.a151b30bcba016eb57bb.jpg",
+    "static/media/doctor1.jpg": "/static/media/doctor1.8c54af511ac4f04dc003.jpg",
+    "static/media/doctor9.jpg": "/static/media/doctor9.6270a99cb848fd282361.jpg",
+    "static/media/doctor.jpg": "/static/media/doctor.3de3cac313b4a9c550cb.jpg",
+    "static/media/doctor5.jpg": "/static/media/doctor5.1e7eaab60b157e5115d7.jpg",
+    "static/media/Google-reviews.jpg": "/static/media/Google-reviews.c3fbe7101adb55d40f69.jpg",
+    "static/media/doctor8.jpg": "/static/media/doctor8.c1c63d0b2ffb5e27e60a.jpg",
+    "static/media/doctor6.jpg": "/static/media/doctor6.8ec16bc04596e910e2a4.jpg",
+    "static/media/fix-health-logo.png": "/static/media/fix-health-logo.3696d08c7db7af99478b.png",
+    "static/media/doctor0.jpg": "/static/media/doctor0.3534ac98a7ec57d5cc2a.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.c86e024c.css.map": "/static/css/main.c86e024c.css.map",
+    "main.5935f411.js.map": "/static/js/main.5935f411.js.map",
+    "787.7750f70a.chunk.js.map": "/static/js/787.7750f70a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c86e024c.css",
+    "static/js/main.5935f411.js"
+  ]
+}
