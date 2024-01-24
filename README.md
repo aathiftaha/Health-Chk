@@ -1,6 +1,6 @@
-# Getting Started with My React App
+# Getting Started with My Fix-Health FE Screening Task
 
-# To Preview - https://65b13b7dd8ac1e15604c7488--joyful-brigadeiros-83187d.netlify.app/
+## To Preview - https://65b13b7dd8ac1e15604c7488--joyful-brigadeiros-83187d.netlify.app/
 
 
 ## Available Scripts
